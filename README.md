@@ -6,13 +6,13 @@
 
 ##Work Experience
 - Barnes And Noble 2015 - Current
-- Worked as cashier/sales rep, selling merchandise and store memberships.
-- Also worked in customer service assureing that our customers felt welcome and had a plesant experience
-- Responsibilities also included 
-  - Reciving/unloading product
-  - setting up/taking down displays and end caps
-  - Hosting/assisting with store events
-  - Go to nook guy.
+ - Worked as cashier/sales rep, selling merchandise and store memberships.
+ - Also worked in customer service assureing that our customers felt welcome and had a plesant experience
+ - Responsibilities also included 
+   - Reciving/unloading product
+   - setting up/taking down displays and end caps
+   - Hosting/assisting with store events
+   - Go to nook guy.
 
 ##Tecnology Experience
   
