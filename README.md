@@ -5,8 +5,7 @@
 
 
 ##Work Experience
-
-   Barnes And Noble 2015 - Current
+   -Barnes And Noble 2015 - Current
       - Worked as cashier/sales rep, selling merchandise and store memberships.
       - Also worked in customer service assureing that our customers felt welcome and had a plesant experience
       - Responsibilities also included 
