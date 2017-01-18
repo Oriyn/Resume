@@ -18,8 +18,8 @@
  - Worked as PC sales rep, Selling Apple/Windows products.
  - Responsibilities also included
    - Downstocking my department 
-   - Selling GeekSquad protection
-   - Answering customers tech questions
+    - Selling GeekSquad protection
+    - Answering customers tech questions
 
 
 ##Tecnology Experience
