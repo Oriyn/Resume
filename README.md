@@ -22,10 +22,10 @@
     - Answering customers tech questions
 
 
-##Tecnology Experience
+##Technology Experience
   
-  Technology has been a great passion of mine for about the last 4 years. I build PCs for me,my friends, and my family,
-  i also am usually the go to guy for tech problems.I have repaired many laptops, phones, and tablets. I also will 
+  Technology has been a great passion of mine for about the last 4 years. I build PCs for myself, my friends, and my family.
+  I also am usually the go to guy for tech problems. I have repaired many laptops, phones, and tablets. I also will 
   spend a lot of my freetime keeping up to date on the latest PC parts.
  
  
