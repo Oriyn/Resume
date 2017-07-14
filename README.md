@@ -14,25 +14,30 @@
     - Hosting/assisting with store events
     - Go to nook guy.
 
-- Best Buy 2016 - Current
+- Best Buy 2016 - 2017
  - Worked as PC sales rep, Selling Apple/Windows products.
  - Responsibilities also included
    - Downstocking my department 
     - Selling GeekSquad protection
     - Answering customers tech questions
-
+    
+- Geek Squad 2017 - Current
+ - Working as a CA (Consultation Agent) at Geek Squad in Brentwood.
+   - Diagnosing problems to give detailed notes to the Repair Agents.
+   - Performing quick fixes over the counter for our clients.
+   - Running and performing functionality checks on TVs, Computers, and all other sorts of tech products.
 
 ##Technology Experience
   
-  Technology has been a great passion of mine for about the last 4 years. I build PCs for myself, my friends, and my family.
+  Technology has been a great passion of mine for about the last 6 years. I build PCs for myself, my friends, and my family.
   I also am usually the go to guy for tech problems. I have repaired many laptops, phones, and tablets. I also will 
   spend a lot of my freetime keeping up to date on the latest PC parts.
  
  
 ##Education
 - Graduated from Epic Christian Academy with Diploma
-- 3.5 GPA
-- Currently attending STLCC - Wildwood
-
+- 3.8 GPA
+- Currently attending STLCC - Computer Science Major
+- Current GPA 3.2
 
 	
