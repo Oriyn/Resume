@@ -24,14 +24,15 @@
    - Diagnosing problems to give detailed notes to the Repair Agents.
    - Performing quick fixes over the counter for our clients.
    - Running and performing functionality checks on TVs, Computers, and all other sorts of tech products.
+   - Testing finished computers to ensure clients satisfaction.
  
 - Half Price Books 2017 - Current 
  - Bookseller Position
  - Responsibillities Include
    - Running the Computer section
-   - Making sure that we keep the most current IS and IT books
-   - Labeling shelves so that our IS books relate to the correct topics
-   - Working on and testing the video game systems and electronics 
+   - Making sure that we keep the most current IS, IT, and computer books.
+   - Labeling shelves so that our computer books relate to the correct topics.
+   - Working on and testing the video game systems and electronics. 
    
 
 ##Technology Experience
