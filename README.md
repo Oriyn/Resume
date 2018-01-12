@@ -5,14 +5,7 @@
 
 
 ## Work Experience
-- Barnes And Noble 2015 - 2016
- - Worked as cashier/sales rep, selling merchandise and store memberships.
- - Also worked in customer service assureing that our customers felt welcome and had a plesant experience
- - Responsibilities also included 
-   - Reciving/unloading product
-    - setting up/taking down displays and end caps
-    - Hosting/assisting with store events
-    - Go to nook guy.
+
 
 - Best Buy/Geek Squad 2016 - 2017
  - Worked as PC sales rep, Selling Apple/Windows products.
@@ -33,7 +26,28 @@
    - Making sure that we keep the most current IS, IT, and computer books.
    - Labeling shelves so that our computer books relate to the correct topics.
    - Working on and testing the video game systems and electronics. 
-   
+  
+- Best Buy/Geek Squad 2016 - 2017
+ - Worked as PC sales rep, Selling Apple/Windows products.
+ - Responsibilities also included
+   - Downstocking my department 
+    - Selling GeekSquad protection
+    - Answering customers tech questions
+ - Working as a CA (Consultation Agent) at Geek Squad in Brentwood.
+   - Diagnosing problems to give detailed notes to the Repair Agents.
+   - Performing quick fixes over the counter for our clients.
+   - Running and performing functionality checks on TVs, Computers, and all other sorts of tech products.
+   - Testing finished computers to ensure clients satisfaction.
+ 
+  
+- Barnes And Noble 2015 - 2016
+ - Worked as cashier/sales rep, selling merchandise and store memberships.
+ - Also worked in customer service assureing that our customers felt welcome and had a plesant experience
+ - Responsibilities also included 
+   - Reciving/unloading product
+    - setting up/taking down displays and end caps
+    - Hosting/assisting with store events
+    - Go to nook guy.
 
 ## Technology Experience
   
