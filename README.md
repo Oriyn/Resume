@@ -27,7 +27,7 @@
  
 - Half Price Books 2017 - Current 
  - Bookseller Position
-  - Responsibillities Include
+ - Responsibillities Include
    - Running the Computer section
    - Making sure that we keep the most current IS and IT books
    - Labeling shelves so that our IS books relate to the correct topics
