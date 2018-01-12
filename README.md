@@ -6,18 +6,6 @@
 
 ## Work Experience
 
-
-- Best Buy/Geek Squad 2016 - 2017
- - Worked as PC sales rep, Selling Apple/Windows products.
- - Responsibilities also included
-   - Downstocking my department 
-    - Selling GeekSquad protection
-    - Answering customers tech questions
- - Working as a CA (Consultation Agent) at Geek Squad in Brentwood.
-   - Diagnosing problems to give detailed notes to the Repair Agents.
-   - Performing quick fixes over the counter for our clients.
-   - Running and performing functionality checks on TVs, Computers, and all other sorts of tech products.
-   - Testing finished computers to ensure clients satisfaction.
  
 - Half Price Books 2017 - Current 
  - Bookseller Position
