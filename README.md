@@ -25,13 +25,13 @@
    - Performing quick fixes over the counter for our clients.
    - Running and performing functionality checks on TVs, Computers, and all other sorts of tech products.
  
- - Half Price Books 2017 - Current 
-  - Working as a bookseller
-   - Responsibillities Include
+- Half Price Books 2017 - Current 
+ - Bookseller Position
+  - Responsibillities Include
    - Running the Computer section
-    - Making sure that we keep the most current IS and IT books
-    - Labeling shelves so that our IS books relate to the correct topics
-    - Working on and testing the video game systems and electronics 
+   - Making sure that we keep the most current IS and IT books
+   - Labeling shelves so that our IS books relate to the correct topics
+   - Working on and testing the video game systems and electronics 
    
 
 ##Technology Experience
