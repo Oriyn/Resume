@@ -4,15 +4,21 @@
 
 ## Programming/Software Experience
 
+- OS Experience
+  - Very proficient in working with UNIX/LINUX operating systems
+  - 
 
- - Programming Languages
+
+- Programming Languages
    - C#  
    - Python
    - Linux Scripting 
    - SQL
  
+ 
  - Database 
-   - Created Logical Databases in Oracle and SQLServer From ERD and Database Diagrams.
+   - Implemented Logical Databases in Oracle and SQLServer 
+   - Sufficient in applying and working with ERD and Database Diagrams.
    - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
 
 
