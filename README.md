@@ -2,13 +2,13 @@
 
 # Gabriel Brian Michael Haggard
 
-## Programming/Software Experience
+## Programming/IT Experience
 
 
 - Hardware Repair/Troubleshooting 
-  - put some stuff here 
-   - computer builds 
-   - stuff that i did in geeksquad
+  - Proficient in performing diagnosis on both UNIX and Windows systems. 
+  - Always keeping up on new tech and staying up to date on new PC builds.
+  - Used GSIS automated tools to test and resolve issues with client devices.
 
 - OS Experience
   - Very proficient in working with UNIX/LINUX operating systems
