@@ -6,7 +6,9 @@
 
 
 - Hardware Repair/Troubleshooting 
-  - 
+  - put some stuff here 
+   - computer builds 
+   - stuff that i did in geeksquad
 
 - OS Experience
   - Very proficient in working with UNIX/LINUX operating systems
