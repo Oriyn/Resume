@@ -6,14 +6,14 @@
 
 
  - Programming Languages
-  - C#  
-  - Python
-  - Linux Scripting 
-  - SQL
+   - C#  
+   - Python
+   - Linux Scripting 
+   - SQL
  
  - Database 
-  - Created Logical Databases in Oracle and SQLServer From ERD and Database Diagrams.
-  - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
+   - Created Logical Databases in Oracle and SQLServer From ERD and Database Diagrams.
+   - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
 
 
 ## Work Experience
