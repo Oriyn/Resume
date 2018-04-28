@@ -4,9 +4,13 @@
 
 ## Programming/Software Experience
 
+
+- Hardware Repair/Troubleshooting 
+  - 
+
 - OS Experience
   - Very proficient in working with UNIX/LINUX operating systems
-  - 
+  - Experience with working on and repairing Windows XP/Vista/7/8/10
 
 
 - Programming Languages
@@ -53,13 +57,7 @@
    - Reciving/unloading product
     - setting up/taking down displays and end caps
     - Hosting/assisting with store events
-    - Go to nook guy.
-
-## Technology Experience
-  
-  Technology has been a great passion of mine for about the last 6 years. I build PCs for myself, my friends, and my family.
-  I also am usually the go to guy for tech problems. I have repaired many laptops, phones, and tablets. I also will 
-  spend a lot of my freetime keeping up to date on the latest PC parts.
+    - Trained in Repairing nook products.
  
  
 ## Education
