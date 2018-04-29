@@ -2,20 +2,9 @@
 
 # Gabriel Brian Michael Haggard
 
+
 ## Programming/IT Experience
 
-
-- Projects
-  - Meremec Online Movie Rental Kiosk
-  - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox
-  - Applied Object Oriented Programming and CRUD principles
-  - Application applied C#, ADO.NET, Transact-SQL
-  
-  
-  - Western Pacific Corp. Database
-  - Created a logical database for a classroom usecase
-  - Database was used to track employees, projects, assignments, managers, and pay
-  - Application applied Oracle PL/SQL
 
 
 - Hardware Repair/Troubleshooting 
@@ -40,6 +29,19 @@
    - Sufficient in applying and working with ERD and Database Diagrams.
    - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
 
+
+## College Projects
+
+- Meremec Online Movie Rental Kiosk
+  - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox
+  - Applied Object Oriented Programming and CRUD principles
+  - Application applied C#, ADO.NET, Transact-SQL
+  
+  
+ - Western Pacific Corp. Database
+   - Created a logical database for a classroom usecase
+   - Database was used to track employees, projects, assignments, managers, and pay
+   - Application applied Oracle PL/SQL
 
 ## Work Experience
 
