@@ -13,35 +13,39 @@
   - Used GSIS automated tools to test and resolve issues with client devices.
 
 - OS Experience
-  - Very proficient in working with UNIX/LINUX operating systems
-  - Experience with working on and repairing Windows XP/Vista/7/8/10
+  - Very proficient in working with UNIX/LINUX operating systems.
+  - Experience with working on and repairing Windows XP/Vista/7/8/10.
 
 
 - Programming Languages
    - C#  
    - Python
-   - Linux Scripting 
+   - Unix Scripting 
    - SQL
  
  
  - Database 
-   - Implemented Logical Databases in Oracle and SQLServer 
+   - Implemented Logical Databases in Oracle and SQLServer .
    - Sufficient in applying and working with ERD and Database Diagrams.
    - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
 
 
 ## College Projects
-
+  
+  
 - Meremec Online Movie Rental Kiosk
-  - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox
-  - Applied Object Oriented Programming and CRUD principles
-  - Application applied C#, ADO.NET, Transact-SQL
+  - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox.
+  - Applied Object Oriented Programming and CRUD principles.
+  - Application applied C#, ADO.NET, Transact-SQL.
   
   
  - Western Pacific Corp. Database
-   - Created a logical database for a classroom usecase
-   - Database was used to track employees, projects, assignments, managers, and pay
-   - Application applied Oracle PL/SQL
+   - Created a logical database for a classroom usecase.
+   - Database was drawn as an ERD before being implemented in Oracle.
+   - Database was used to track employees, projects, assignments, managers, and pay.
+   - Application applied Oracle PL/SQL.
+   
+   
 
 ## Work Experience
 
