@@ -5,6 +5,11 @@
 ## Programming/IT Experience
 
 
+- Projects
+  - Meremec Online Movie Rental Kiosk
+   - asdasd
+
+
 - Hardware Repair/Troubleshooting 
   - Proficient in performing diagnosis on both UNIX and Windows systems. 
   - Always keeping up on new tech and staying up to date on new PC builds.
