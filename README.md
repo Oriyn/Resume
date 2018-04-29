@@ -7,7 +7,15 @@
 
 - Projects
   - Meremec Online Movie Rental Kiosk
-   - asdasd
+  - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox
+  - Applied Object Oriented Programming and CRUD principles
+  - Application applied C#, ADO.NET, Transact-SQL
+  
+  
+  - Western Pacific Corp. Database
+  - Created a logical database for a classroom usecase
+  - Database was used to track employees, projects, assignments, managers, and pay
+  - Application applied Oracle PL/SQL
 
 
 - Hardware Repair/Troubleshooting 
