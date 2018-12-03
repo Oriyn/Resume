@@ -30,8 +30,20 @@
    - Familliar with both Microsoft Transact-SQL and Oracle PL/SQL.
 
 
-## College Projects
-  
+
+## Other Technologies and Frameworks
+  - Entity Framework
+  - ADO.NET
+  - Angular 6
+  - Git/Github
+
+
+## College / Other Projects
+
+- Fl33t Ninjas Guild Website 
+  - Website Created using HTML5 and CSS3
+  - Hosted in AWS
+  - http://fl33tninjas.com/index.html
   
 - Meremec Online Movie Rental Kiosk
   - Ui, Buisness classes, and Database for a movie rental system similar to Netflix or Redbox.
